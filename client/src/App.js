@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
+//comment to check if connected on git
 class App extends Component {
   state = {
     response: ''
